@@ -1,11 +1,10 @@
-
 * {
   margin: 0px;
   padding: 0px;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: large;
   font-weight: bold;
-  
+
 }
 
 nav {
@@ -14,16 +13,17 @@ nav {
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: 30% 60%;
-      grid-template-columns: 30% 60%;
+  grid-template-columns: 30% 60%;
   -webkit-column-gap: 10%;
-          column-gap: 10%;
+  column-gap: 10%;
   padding: 0% 5%;
 }
+
 nav .array-inputs {
   display: -ms-grid;
-  display:grid; 
+  display: grid;
   -ms-grid-columns: 60% 40%;
-      grid-template-columns: 60% 40%;
+  grid-template-columns: 60% 40%;
   place-content: center;
   padding: 5% 0%;
 }
@@ -41,7 +41,7 @@ nav .array-inputs #a_speed {
 nav .array-inputs #a_generate {
   background-color: rgb(20, 21, 21);
   border: 1px;
-  outline:auto;
+  outline: auto;
   color: rgb(224, 232, 232);
   padding: 2% 2% 2% 2%;
   padding-left: 4%;
@@ -57,8 +57,8 @@ nav .header_right {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
 }
 
 nav .header_right .nav-heading {
@@ -71,8 +71,8 @@ nav .header_right .algos {
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: (16.66667%);
-      grid-template-columns: repeat(6, 16.66667%);
-       place-content: center;
+  grid-template-columns: repeat(6, 16.66667%);
+  place-content: center;
   padding: 2% 0%;
 }
 
@@ -83,7 +83,7 @@ nav .header_right .algos button {
   color: rgb(255, 255, 255);
   outline: none;
   padding: 5% 0%;
-  font-size:medium;
+  font-size: medium;
   font-family: sans-serif;
 }
 
@@ -120,11 +120,11 @@ nav .header_right .algos .butt_unselected:hover {
 section {
   display: -ms-grid;
   display: grid;
-  background-color:#151515;
+  background-color: #151515;
   -ms-grid-columns: 20% 60% 20%;
-      grid-template-columns: 20% 60% 20%;
-      
-      
+  grid-template-columns: 20% 60% 20%;
+
+
 }
 
 section #Info_Cont1 {
@@ -148,25 +148,30 @@ section #Info_Cont2 {
 .hide {
   display: none;
 }
-.div h1{
+
+.div h1 {
   color: wheat;
 }
-.square{
+
+.square {
   height: 30px;
   width: 30px;
   background-color: green;
-  
+
 }
+
 .circle {
   height: 30px;
   width: 30px;
   background-color: red
 }
+
 .rectangle {
   height: 30px;
   width: 30px;
   background-color: yellow
 }
+
 .triangle {
   height: 30px;
   width: 30px;
