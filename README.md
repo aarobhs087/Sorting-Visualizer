@@ -35,3 +35,6 @@ This project was created by [Arobh Kumar].
 ## License
 
 This project is open source
+
+##Demo
+[Click Here](https://aarobhs087.github.io/Sorting-Visualizer/)
