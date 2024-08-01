@@ -37,4 +37,4 @@ This project was created by [Arobh Kumar].
 This project is open source
 
 ##Demo
-[Click Here](https://aarobhs087.github.io/Sorting-Visualizer/)
+[Click Here](https://sorting-techniques-visualizer.glitch.me/)
