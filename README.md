@@ -36,5 +36,5 @@ This project was created by [Arobh Kumar].
 
 This project is open source
 
-##Demo
+# Demo
 [Click Here](https://sorting-techniques-visualizer.glitch.me/)
